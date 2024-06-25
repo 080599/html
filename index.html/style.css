@@ -1,0 +1,18 @@
+
+h1{
+    font-size: 70px;
+    margin-bottom: 16px;
+    color:brown;
+}
+.username {
+    color: blue;
+}
+h2{
+    color:rgb(255, 94, 0);
+}
+#photo{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+
+    }
